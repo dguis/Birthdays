@@ -37,8 +37,10 @@
 @media screen and (max-height: 450px) {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
-}body{background-image: url("Birthday.jpg");  font-size: 30px; color: #ffff00;}
+}body{font-size: 30px; color: #ffff00;}
 div{background: linear-gradient(aqua, rgb(47, 0, 254)); left: 0px; top: 0px; height: 12em; position: absolute;}
 .items{ text-align: center;}
 a{text-decoration: none; color: yellow;}
 h1{font-family: "Comic Sans MS",cursive,sans-serif; text-align: center;}
+#sarah{background-image: url("Birthday.jpg");}
+#luke{background-image: url("BirthdayL.jpg");}
